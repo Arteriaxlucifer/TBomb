@@ -41,7 +41,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/sparkz-technology/TBomb.git
 
 cd TBomb
 
@@ -68,31 +68,12 @@ git installation methods are not universal and do differ between distributions, 
 To use the bomber type the following commands in Linux terminal:
 
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+
+git clone https://github.com/sparkz-technology/TBomb.git
+
 cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
-> For macOS:
-To use the bomber type the following commands in macOS terminal:
 
-# Install Brew: 
-
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-# Install dependencys:
-
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
 chmod +x TBomb.sh
 
-# Missing Tools
-
-Toilet cannot be installed yet. But TBomb does still work.
-
-# Run TBomb:
-
 sudo bash TBomb.sh
+
