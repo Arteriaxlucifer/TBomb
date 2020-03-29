@@ -38,11 +38,17 @@ git installation methods are not universal and do differ between distributions, 
 To use the bomber type the following commands in Termux:
 
 pkg install git
+
 pkg install python
+
 git clone https://github.com/TheSpeedX/TBomb.git
+
 cd TBomb
+
 chmod +x TBomb.sh
+
 ./TBomb.sh
+
 > For Linux:
 Notice:
 
