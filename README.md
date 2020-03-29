@@ -57,9 +57,13 @@ git installation methods are not universal and do differ between distributions, 
 To use the bomber type the following commands in Linux terminal:
 
 sudo apt install git https://github.com/sparkz-technology/TBomb.git
+
 cd TBomb
+
 chmod +x TBomb.sh
+
 ./TBomb.sh
+
 > For Linux:
 Notice:
 
