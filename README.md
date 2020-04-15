@@ -30,6 +30,9 @@ Easy to use and embed in code
 Usage:
 Run these commands to run TBomb
 
+![TBomb](https://user-images.githubusercontent.com/62829664/79316000-5f6f4f00-7f21-11ea-8b32-32d7b4e652df.jpg)
+
+
 > For Termux:
 Notice:
 
